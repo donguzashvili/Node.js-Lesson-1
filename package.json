@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "node-products",
+  "version": "1.0.0",
+  "description": "for learning node level one",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "shota donguzashvili",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
