@@ -7,7 +7,8 @@
   "description": "for learning node level one",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
   },
   "author": "shota donguzashvili",
   "license": "ISC",
